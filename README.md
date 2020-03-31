@@ -13,4 +13,10 @@
   <p>python manage.py runserver</p>
 </ul>
 <br>
+<h3>Twórcy projektu:</h3>
+<p>Maja Harkot</p>
+<p>Jakub Banasiak</p>
+<p>Jakub Drypa</p>
+<p>Patryk Lewandowski</p>
+<br>
 <h4>Enjoy our project :)</h4>
