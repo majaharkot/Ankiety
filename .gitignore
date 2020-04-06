@@ -1,0 +1,14 @@
+*.o
+*out
+*exe
+*lck
+.~*
+
+__pycache__/
+*.py[cod]
+*pyc
+venv
+pve
+.DS_Store
+
+.idea
