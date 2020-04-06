@@ -51,7 +51,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'ankiety.urls'
+ROOT_URLCONF = 'Ankiety.urls'
 
 TEMPLATES = [
     {
@@ -70,7 +70,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'ankiety.wsgi.application'
+WSGI_APPLICATION = 'Ankiety.wsgi.application'
 
 
 # Database
