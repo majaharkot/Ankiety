@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52c7d38b-44e4-408c-8e7c-1d621b83714a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/users/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/templates/loguj_user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/templates/rejestruj.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/szablon.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/szablon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -20,6 +28,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1aB01cHcdWxtnLTP4Ct2Psxq7tv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -67,30 +78,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586193465672</updated>
-      <workItem from="1586193468731" duration="1168000" />
+      <workItem from="1586193468731" duration="2686000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1586194625110">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1586196160682">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586194625110" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1586194625109">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586196160682" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1586196160682">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586194625109" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1586194625109">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586196160682" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1586196160682">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586194625109" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1586194625109">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586196160682" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1586196160682">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586194625109" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586196160682" />
+    <state x="564" y="74" key="RollbackChangesDialog" timestamp="1586196026877">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="564" y="74" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1586196026877" />
     <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1586193520632">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
