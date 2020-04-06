@@ -1,14 +1,31 @@
 *.o
+<<<<<<< HEAD
 *out
 *exe
 *lck
+=======
+*.out
+*.exe
+*.lck
+>>>>>>> cb099a54b4e79f6abf28898a3ba43cdac7f450b5
 .~*
 
 __pycache__/
 *.py[cod]
+<<<<<<< HEAD
 *pyc
 venv
 pve
 .DS_Store
 
 .idea
+=======
+*.pyc
+venv
+pve
+
+.DS_Store
+
+# katalog konfiguracyjny aplikacji jetbrains
+.idea
+>>>>>>> cb099a54b4e79f6abf28898a3ba43cdac7f450b5

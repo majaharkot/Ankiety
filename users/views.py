@@ -23,7 +23,7 @@ def rejestruj(request):
     return render(request, 'users/rejestruj.html', kontekst)
 
 
-def loguj(request):
+def loguj_user(request):
     if request.method == 'POST':
         form = UserLoginForm(request.POST)
         if form.is_valid():
@@ -32,18 +32,18 @@ def loguj(request):
             user = authenticate(request, username=nazwa, password=haslo)
             if user is not None:
                 login(request, user)
-                messages.success(request, "Zostałeś zalogowany!")
+                messages.success(request, "Zostałeś zalogowany")
                 return redirect(reverse('users:index'))
             else:
-                messages.error(request, "Błędny login lub hasło!")
+                messages.error(request, "Błędny login lub hasło")
+
     else:
         form = UserLoginForm()
 
     kontekst = {'form': form}
-    return render(request, 'users/loguj.html', kontekst)
+    return render(request, 'users/loguj_user.html', kontekst)
 
-
-def wyloguj(request):
+def wyloguj_user(request):
     logout(request)
-    messages.info(request, "Zostałeś wylogowany!")
+    messages.info(request, "Zostałeś wylogowany")
     return redirect(reverse('users:index'))

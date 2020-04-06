@@ -1,31 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="6f7c3e93-0842-488f-870f-8af3e070f14b" name="Default Changelist" comment="logowanie do serwisu part 1">
       <change afterPath="$PROJECT_DIR$/formularze/forms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/formularze/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/formularze/models.py" afterDir="false" />
+=======
+    <list default="true" id="52c7d38b-44e4-408c-8e7c-1d621b83714a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/users/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/templates/loguj_user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/templates/rejestruj.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/szablon.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/szablon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/views.py" afterDir="false" />
+>>>>>>> cb099a54b4e79f6abf28898a3ba43cdac7f450b5
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,22 +36,29 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1aAduwF2rWlh6dprwXzrdObPxI1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1aB01cHcdWxtnLTP4Ct2Psxq7tv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunManager">
-    <configuration name="Ankiety" type="Python.DjangoServer" factoryName="Django server">
-      <module name="Ankiety" />
+    <configuration name="ankiety" type="Python.DjangoServer" factoryName="Django server">
+      <module name="ankiety" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
-        <env name="DJANGO_SETTINGS_MODULE" value="Ankiety.settings" />
+        <env name="DJANGO_SETTINGS_MODULE" value="ankiety.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -77,26 +82,19 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6f7c3e93-0842-488f-870f-8af3e070f14b" name="Default Changelist" comment="" />
-      <created>1586182559864</created>
+      <changelist id="52c7d38b-44e4-408c-8e7c-1d621b83714a" name="Default Changelist" comment="" />
+      <created>1586193465672</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1586182559864</updated>
-      <workItem from="1586182570626" duration="5734000" />
+      <updated>1586193465672</updated>
+      <workItem from="1586193468731" duration="2686000" />
     </task>
-    <task id="LOCAL-00001" summary="utworzenie projektu - poprawka">
-      <created>1586183313060</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1586183313060</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+<<<<<<< HEAD
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -110,9 +108,36 @@
       </map>
     </option>
   </component>
+=======
+>>>>>>> cb099a54b4e79f6abf28898a3ba43cdac7f450b5
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="utworzenie projektu - poprawka" />
-    <option name="LAST_COMMIT_MESSAGE" value="utworzenie projektu - poprawka" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1586196160682">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586196160682" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1586196160682">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586196160682" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1586196160682">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586196160682" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1586196160682">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586196160682" />
+    <state x="564" y="74" key="RollbackChangesDialog" timestamp="1586196026877">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="564" y="74" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1586196026877" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1586193520632">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586193520632" />
   </component>
   <component name="WindowStateProjectService">
     <state x="98" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586199572522">
