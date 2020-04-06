@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'formularze.apps.FormularzeConfig',
+    'users.apps.UsersConfig',
 ]
 
 MIDDLEWARE = [
