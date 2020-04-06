@@ -1,15 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f7c3e93-0842-488f-870f-8af3e070f14b" name="Default Changelist" comment="">
+    <list default="true" id="6f7c3e93-0842-488f-870f-8af3e070f14b" name="Default Changelist" comment="logowanie do serwisu part 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ankiety/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ankiety/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ankiety/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ankiety/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formularze/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/formularze/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/szablon.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/szablon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/templates/users/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/users/templates/users/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/templates/users/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/users/templates/users/loguj.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -25,6 +49,7 @@
   <component name="ProjectId" id="1aAduwF2rWlh6dprwXzrdObPxI1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -77,7 +102,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586182559864</updated>
-      <workItem from="1586182570626" duration="2520000" />
+      <workItem from="1586182570626" duration="5734000" />
     </task>
     <task id="LOCAL-00001" summary="utworzenie projektu - poprawka">
       <created>1586183313060</created>
